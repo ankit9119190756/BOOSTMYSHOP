@@ -1,0 +1,2 @@
+# BOOSTMYSHOP
+This Extension for BOOSTMYSHOP
